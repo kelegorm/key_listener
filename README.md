@@ -5,10 +5,11 @@ Usage:
 
     import 'package:key_listener/key_listener.dart';
     
-    
-    class someElementextends HtmlElement {
+    class SomeElement extends HtmlElement {
     
       StreamSubscription<KeyboardEvent> _duplicateKeySub;
+    
+      //...
     
       @override
       void attached() {
