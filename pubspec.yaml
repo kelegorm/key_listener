@@ -1,5 +1,5 @@
-name: key_listener
-version: 0.0.1
+name: keypress_listener
+version: 1.0.0
 description: Helper to catch key combinations
 author: Dmitriy Vasilyev <kelegorm1@gmail.com>
 homepage: https://github.com/kelegorm/key_listener

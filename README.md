@@ -1,4 +1,4 @@
-# key_listener
+# keypress_listener
 Helper to catch key combinations
 
 Usage:
